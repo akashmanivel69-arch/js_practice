@@ -1,0 +1,228 @@
+Topic 1: Variables and data types (1–10)
+
+1. Declare variables to store your name, age, city, and whether you are a student.
+2. Create variables using let, const, and var, and print their values.
+3. Store two numbers and print their sum.
+4. Store a product name, price, and quantity, then calculate the total price.
+5. Check the data type of a string, number, boolean, undefined, null, object, and array using typeof.
+6. Create a variable without assigning a value and print it.
+7. Assign null to a variable and compare its type with undefined.
+8. Swap two variables without losing either value.
+9. Convert a person's age from a string to a number.
+10. Create a user profile using variables and print a formatted profile summary.
+
+
+Topic 2: Operators and type conversion (11–20)
+11. Build a calculator that performs addition, subtraction, multiplication, and division.
+12. Calculate the remainder when one number is divided by another.
+13. Convert minutes into hours and remaining minutes.
+14. Calculate the total cost after applying a percentage discount.
+15. Calculate simple interest using principal, rate, and time.
+16. Compare two values using == and === and explain the results.
+17. Compare null and undefined using different comparison operators.
+18. Convert a numeric string into a number using Number() and parseInt().
+19. Use logical operators to check whether a user meets two eligibility conditions.
+20. Use the ternary operator to determine whether a person can access a service based on age.
+Topic 3: Conditional statements (21–30)
+21. Check whether a number is positive, negative, or zero.
+22. Check whether a number is even or odd.
+23. Find the largest of two numbers.
+24. Find the largest of three numbers.
+25. Create a grade calculator based on marks.
+26. Check whether a year is a leap year.
+27. Create a simple login check using a stored username and password.
+28. Determine whether a person is eligible for a driving licence based on age.
+29. Build a calculator using switch for the four basic arithmetic operations.
+30. Create a shipping-cost calculator based on order amount and delivery type.
+Topic 4: Loops (31–40)
+31. Print numbers from 1 to 100.
+32. Print all even numbers between 1 and 100.
+33. Print all odd numbers between 1 and 100.
+34. Calculate the sum of the first \(n\) natural numbers.
+35. Print the multiplication table of a given number.
+36. Calculate the factorial of a number.
+37. Reverse the digits of an integer.
+38. Count the number of digits in an integer.
+39. Check whether a number is prime.
+40. Print the Fibonacci sequence for a given number of terms.
+Topic 5: Functions (41–50)
+41. Create a function that adds two numbers.
+42. Write a function that returns the square of a number.
+43. Write a function that checks whether a number is even.
+44. Create a function that converts Celsius to Fahrenheit.
+45. Create a function that accepts a name and returns a greeting.
+46. Write a function with a default parameter for a discount percentage.
+47. Rewrite a regular function as an arrow function.
+48. Create a function that accepts any number of arguments using rest parameters and returns their sum.
+49. Write a function that returns the largest number in an array.
+50. Create a higher-order function that accepts another function as an argument and executes it.
+Level 2 — Working with data
+Topic 6: Arrays (51–65)
+51. Create an array of five programming languages and print each element.
+52. Add an element to the beginning and end of an array.
+53. Remove the first and last elements from an array.
+54. Find the length of an array.
+55. Access the first, middle, and last elements of an array.
+56. Find the index of a particular element.
+57. Check whether an array contains a given value.
+58. Find the largest number in an array.
+59. Find the smallest number in an array.
+60. Calculate the sum and average of an array of numbers.
+61. Reverse an array without using reverse().
+62. Remove duplicate values from an array.
+63. Merge two arrays without modifying the originals.
+64. Split an array into two halves.
+65. Rotate an array to the right by \(k\) positions.
+Topic 7: Strings (66–80)
+66. Count the number of characters in a string.
+67. Convert a string to uppercase and lowercase.
+68. Capitalize the first letter of a word.
+69. Capitalize the first letter of every word in a sentence.
+70. Reverse a string without using reverse().
+71. Check whether a string is a palindrome.
+72. Count the vowels and consonants in a string.
+73. Count how many times a particular character appears.
+74. Count the words in a sentence.
+75. Remove all spaces from a string.
+76. Replace every occurrence of a word with another word.
+77. Check whether a string contains a given substring.
+78. Convert a sentence into a URL-friendly slug.
+79. Mask all but the last four digits of a phone number.
+80. Find the longest word in a sentence.
+Topic 8: Objects (81–95)
+81. Create a user object containing name, email, age, and city.
+82. Read and update an object's properties.
+83. Add a new property to an existing object.
+84. Delete a property from an object.
+85. Loop through an object's keys and values.
+86. Count the number of properties in an object.
+87. Merge two objects without modifying either original.
+88. Check whether an object contains a particular property.
+89. Convert an object into an array of key-value pairs.
+90. Create an array of student objects and find a student by ID.
+91. Calculate the average marks of students stored in objects.
+92. Group products by category using objects.
+93. Create a shopping cart object that tracks product quantities and prices.
+94. Compare two objects to determine whether they have the same shallow properties.
+95. Create a nested user object and safely access a deeply nested property using optional chaining.
+Topic 9: Array methods (96–110)
+96. Use forEach() to print every element in an array.
+97. Use map() to square every number in an array.
+98. Use filter() to return only numbers greater than 50.
+99. Use find() to locate the first user older than 18.
+100. Use findIndex() to locate a product by ID.
+101. Use reduce() to calculate the sum of an array.
+102. Use reduce() to calculate the total value of a shopping cart.
+103. Sort an array of numbers in ascending order.
+104. Sort an array of objects by price.
+105. Use some() to check whether any student failed.
+106. Use every() to check whether all users are adults.
+107. Use includes() to check whether a selected filter exists.
+108. Flatten a nested array by one level and then completely.
+109. Create a frequency counter for repeated elements in an array.
+110. Convert an array of users into an object indexed by user ID.
+Level 3 — Intermediate JavaScript
+Topic 10: Scope, closures, and this (111–120)
+111. Demonstrate the difference between global scope and function scope.
+112. Show how let and const behave inside a block.
+113. Write a program that demonstrates variable hoisting with var.
+114. Demonstrate the temporal dead zone using let.
+115. Create a closure that remembers a counter value between function calls.
+116. Create a private variable using a closure and expose getter and setter functions.
+117. Build a function that generates unique IDs using a closure.
+118. Explain and demonstrate how this behaves in an object method.
+119. Use call(), apply(), and bind() to control the value of this.
+120. Create a function that uses a closure to remember a user's last search term.
+Topic 11: Destructuring, spread, and rest (121–130)
+121. Extract values from an array using array destructuring.
+122. Extract selected properties from a user object using object destructuring.
+123. Use default values during destructuring when properties are missing.
+124. Swap two variables using array destructuring.
+125. Copy an array using the spread operator.
+126. Merge two objects using the spread operator.
+127. Write a function that accepts a variable number of arguments using rest parameters.
+128. Create a new object by updating one property without changing the original object.
+129. Remove a property from an object using destructuring and rest syntax.
+130. Build a function that accepts configuration options with defaults and overrides them using object spread.
+Topic 12: Error handling and debugging (131–140)
+131. Handle division by zero with a meaningful error message.
+132. Use try...catch to handle invalid numeric input.
+133. Throw an error when a required function argument is missing.
+134. Validate an email string and throw an error if it is invalid.
+135. Use finally to perform cleanup after an operation.
+136. Create a custom error class for invalid user data.
+137. Validate that an array contains only numbers and report invalid elements.
+138. Write a JSON parser wrapper that handles malformed JSON.
+139. Create a function that validates a password and returns clear error messages.
+140. Debug a function that produces incorrect totals because of string-to-number conversion.
+Level 4 — JavaScript for the browser
+These exercises use browser JavaScript APIs. You can practice them in the browser console or JavaScript files linked to a test page. The challenge logic itself must be written in JavaScript.
+Topic 13: DOM manipulation (141–155)
+141. Select an element using getElementById() and read its text.
+142. Select elements using querySelector() and querySelectorAll().
+143. Change an element's text using textContent.
+144. Change an element's content using innerHTML, and demonstrate why untrusted input must not be inserted this way.
+145. Change an element's attributes using JavaScript.
+146. Add and remove CSS classes using classList.
+147. Create a new DOM element using createElement() and insert it into the document.
+148. Remove an element from the DOM.
+149. Build a dynamic list from an array of task objects.
+150. Create a character counter that updates as a user types.
+151. Build a live search that filters a list of names as the user types.
+152. Create a dropdown whose available options depend on another selection.
+153. Build a tab-switching system that updates the active content.
+154. Create a modal dialog that opens and closes through JavaScript.
+155. Build a pagination system that displays a fixed number of records per page.
+Topic 14: Events and event delegation (156–165)
+156. Handle a button click using addEventListener().
+157. Read the value of a text input when a user submits a form.
+158. Validate required form fields and display errors.
+159. Prevent the default form submission and process the data with JavaScript.
+160. Detect keyboard events and build a shortcut for a specific key combination.
+161. Use event bubbling to trace the path of a click through nested elements.
+162. Use event delegation to handle clicks on dynamically added list items.
+163. Create a counter with increment, decrement, and reset actions.
+164. Build a form that adds and removes multiple input fields dynamically.
+165. Implement a confirmation step before a destructive action, such as deleting a record.
+Topic 15: Asynchronous JavaScript (166–180)
+166. Use setTimeout() to display a message after two seconds.
+167. Use setInterval() to build a live counter.
+168. Stop an interval using clearInterval().
+169. Create a countdown timer using JavaScript timers.
+170. Create a Promise that resolves after a delay.
+171. Create a Promise that rejects when a validation fails.
+172. Use .then() and .catch() to process a Promise.
+173. Rewrite Promise chaining using async and await.
+174. Handle errors in an asynchronous function using try...catch.
+175. Use Promise.all() to process multiple independent asynchronous tasks.
+176. Use Promise.allSettled() to inspect both successful and failed tasks.
+177. Use Promise.race() to return whichever of two Promises settles first.
+178. Fetch JSON data from a public API and display selected fields in the console.
+179. Implement loading, success, and error states when fetching API data.
+180. Cancel an in-progress fetch request using AbortController.
+Topic 16: Browser storage and APIs (181–190)
+181. Store a username in localStorage and retrieve it after a page reload.
+182. Save a theme preference in localStorage.
+183. Store temporary session data using sessionStorage.
+184. Create a shopping cart that persists between page reloads using localStorage.
+185. Serialize an object using JSON.stringify() and restore it using JSON.parse().
+186. Build a debounced search function that runs after the user stops typing.
+187. Build a throttled function that runs at most once per specified time interval.
+188. Detect the browser's online and offline events.
+189. Use the Clipboard API to copy text after a user action, handling permission errors.
+190. Use the Geolocation API to retrieve coordinates after permission is granted, handling errors and denial.
+Level 5 — Real-world JavaScript challenges
+Topic 17: Web development mini challenges (191–200)
+These combine the earlier topics. The goal is to build the core functionality in JavaScript, without a frontend framework.
+191. To-do manager: Add, edit, complete, filter, and delete tasks. Persist tasks using localStorage.
+192. Expense tracker: Record income and expenses, calculate the balance, and summarize spending by category.
+193. Quiz engine: Display questions, track answers, calculate scores, and show results.
+194. Shopping cart: Add and remove products, change quantities, calculate subtotals, and apply discounts.
+195. Form validation engine: Create reusable validation functions for email, password, required fields, and phone numbers.
+196. API-powered search: Fetch data, debounce user input, show loading and error states, and handle empty results.
+197. Pagination and sorting engine: Sort records by different fields and paginate the results without losing the selected sort order.
+198. Undo and redo system: Maintain application state history and allow users to undo or redo changes.
+199. Authentication interface logic: Implement client-side form validation, loading states, and API request handling. Do not store real passwords or treat client-side checks as secure authentication.
+200. Mini state-management system: Create a simple store with getState(), dispatch(), and subscribe() so multiple parts of an application can react to state changes.
+
+How to practice these 200 questions
