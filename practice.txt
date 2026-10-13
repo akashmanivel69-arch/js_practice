@@ -23,6 +23,8 @@ Topic 2: Operators and type conversion (11–20)
 18. Convert a numeric string into a number using Number() and parseInt().
 19. Use logical operators to check whether a user meets two eligibility conditions.
 20. Use the ternary operator to determine whether a person can access a service based on age.
+
+
 Topic 3: Conditional statements (21–30)
 21. Check whether a number is positive, negative, or zero.
 22. Check whether a number is even or odd.
@@ -34,6 +36,8 @@ Topic 3: Conditional statements (21–30)
 28. Determine whether a person is eligible for a driving licence based on age.
 29. Build a calculator using switch for the four basic arithmetic operations.
 30. Create a shipping-cost calculator based on order amount and delivery type.
+
+
 Topic 4: Loops (31–40)
 31. Print numbers from 1 to 100.
 32. Print all even numbers between 1 and 100.
@@ -45,6 +49,8 @@ Topic 4: Loops (31–40)
 38. Count the number of digits in an integer.
 39. Check whether a number is prime.
 40. Print the Fibonacci sequence for a given number of terms.
+
+
 Topic 5: Functions (41–50)
 41. Create a function that adds two numbers.
 42. Write a function that returns the square of a number.
@@ -56,6 +62,8 @@ Topic 5: Functions (41–50)
 48. Create a function that accepts any number of arguments using rest parameters and returns their sum.
 49. Write a function that returns the largest number in an array.
 50. Create a higher-order function that accepts another function as an argument and executes it.
+
+
 Level 2 — Working with data
 Topic 6: Arrays (51–65)
 51. Create an array of five programming languages and print each element.
@@ -73,6 +81,8 @@ Topic 6: Arrays (51–65)
 63. Merge two arrays without modifying the originals.
 64. Split an array into two halves.
 65. Rotate an array to the right by \(k\) positions.
+
+
 Topic 7: Strings (66–80)
 66. Count the number of characters in a string.
 67. Convert a string to uppercase and lowercase.
