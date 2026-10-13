@@ -54,7 +54,38 @@ console.log("Type of arr:", typeof arr);
 
 
 // 6. Create a variable without assigning a value and print it.
+
+let hobby;
+console.log(hobby)
+
 // 7. Assign null to a variable and compare its type with undefined.
+
+let Nul = null, d;
+
+console.log(Nul>=d);
+
+
 // 8. Swap two variables without losing either value.
+
+let x=3,  y=5, temp;
+
+temp = x;
+x = y;
+y = temp;
+
+
+console.log("x :"+x+", y :"+y)
+
+
 // 9. Convert a person's age from a string to a number.
+
+let age_s = "34"
+let  age_i = Number(age_s)
+
+console.log(typeof age_i)
+
 // 10. Create a user profile using variables and print a formatted profile summary.
+
+console.log(
+    name,age,city
+);
